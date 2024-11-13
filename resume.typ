@@ -2,15 +2,14 @@
 
 #show: resume.with(
   author: (
-      firstname: "Aaaaaaa", 
-      lastname: "Aaa",
-      email: "aaaaaaaaaa@aaaaa.aaa", 
-      phone: "(+1) 0000000000",
-      github: "aaaaaaaaa",
-      linkedin: "aaaaaaaa",
+      firstname: "Alex", 
+      lastname: "Prudhomme",
+      email: "PRIVATE", 
+      phone: "(+1) PRIVATE",
+      github: "alexprudhomme",
+      linkedin: "alexprudhomme",
       positions: (
-        "Aaaaaaaa Aaaaaaaa",
-        "Aaaa Aaaaa Aaaaaaaaa",
+        "Software Developer",
       )
   ),
   //TODO: https://github.com/typst/typst/issues/204
